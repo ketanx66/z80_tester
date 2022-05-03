@@ -1,1 +1,14 @@
 .vscode/*
+*.out
+*.o
+*.elf
+*.eps
+*.png
+*.pdf
+*.bak
+*.hex
+*.bin
+*.srec
+*.lst
+*.map
+*.log
